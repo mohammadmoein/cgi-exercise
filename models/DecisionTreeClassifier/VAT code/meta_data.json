@@ -1,0 +1,1 @@
+{"VAT code_test_performance": 0.8594286753586341, "train_csv": "data_cleansed/seed_33/train.csv", "test_csv": "data_cleansed/seed_33/test.csv", "target": "VAT code"}
