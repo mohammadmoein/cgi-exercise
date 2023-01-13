@@ -1,0 +1,6 @@
+{
+    "n_estimators":[10,20,50,100],
+    "criterion":["gini","entropy"],
+    "n_jobs" :[-1]
+    
+}

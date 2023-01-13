@@ -1,0 +1,5 @@
+{
+    "n_neighbors":[5,10],
+    "metric":["euclidean","cityblock"],
+    "n_jobs":[-1]
+}

@@ -1,0 +1,4 @@
+{
+    "criterion":["gini", "entropy", "log_loss"],
+    "splitter" : ["best", "random"]
+}
